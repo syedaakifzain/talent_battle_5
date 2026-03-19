@@ -23,4 +23,4 @@ Nested loop logic for frequency counting
 
 Beginner-friendly implementation using Java and Scanner input handling
 
-This repository is part of my continuous coding practice to strengthen Data Structures & Algorithms fundamentals and improve problem-solving skills in Java.
+This repository is part of my continuous coding practice to strengthen Data Structures & Algorithms fundamentals and improve problem-solving skills in Java..
